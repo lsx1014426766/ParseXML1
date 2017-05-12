@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<books>
+   <book id="1">
+	  <name><a>oooo</a>我的青春我做主</name>
+	  <author>艾德华</author>
+	  <year>2014</year>
+	  <price>23</price>
+   </book>
+   <book id="2">
+      <language>55</language>
+	  <name>安徒生的童话</name>
+	  <price>800</price>
+	  <year>2001</year>
+   </book>
+
+</books>
